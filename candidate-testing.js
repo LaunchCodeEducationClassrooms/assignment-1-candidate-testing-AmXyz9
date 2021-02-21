@@ -12,7 +12,7 @@ let questions = [];
 let correctAnswers = [];
 let candidateAnswers = [];
 
-questions = [ "1. Who was the first American woman in space? ", "2. True or false: 5000 meters == 5 kilometers. ", "3. (5+3)/2*10 ", "4. Given the array [8, 'orbit', 'Trajectory', 45], what entry is at index 2? ", "5. What is the minimum crew for the ISS? " ]
+questions = [ '1. Who was the first American woman in space? ', '2. True or false: 5000 meters == 5 kilometers. ', '3. (5+3)/2*10 ', '4. Given the array [8, "orbit", "Trajectory", 45], what entry is at index 2? ', '5. What is the minimum crew for the ISS? ' ]
 
 correctAnswers = [ 'Sally Ride', 'True', '40', 'Trajectory', '3' ];
 
